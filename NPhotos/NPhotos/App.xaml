@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prism:PrismApplication xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Unity;assembly=Prism.Unity.Forms"
+             x:Class="NPhotos.App">
+    <Application.Resources>
+        <!-- Application resource dictionary -->
+        <ResourceDictionary>
+            <Color x:Key="colorWhite">#ffffff</Color>
+            <Color x:Key="colorBlack">#000000</Color>
+            <Color x:Key="colorBlue">#2c3e80</Color>
+            <Color x:Key="colorBlueDark">#2C4084</Color>
+            <Color x:Key="colorOrange">#f49527</Color>
+            <Color x:Key="colorDarkGray">#4c4c4c</Color>
+            <Color x:Key="colorDarkLightGray">#4a4a4a</Color>
+            <Color x:Key="colorGray">#999999</Color>
+            <Color x:Key="colorMidGray">#828282</Color>
+            <Color x:Key="colorLightGray">#b5b5b5</Color>
+            <Color x:Key="colorExtraLightGray">#ebebeb</Color>
+            <Color x:Key="colorExtraThinLightGray">#dbdbdb</Color>
+        </ResourceDictionary>
+    </Application.Resources>
+</prism:PrismApplication>
